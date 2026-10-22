@@ -1,6 +1,6 @@
 cask "omninput" do
-  version "1.7.2"
-  sha256 "692b7dcbfbef4a32cfc0f1f77b4273cc1250f18360eb8c0c250f281be799f7a7"
+  version "1.7.3"
+  sha256 "26a73737390d313cb39cdd315a35437c2f5724c025eda5ed90b40c8174897a65"
 
   url "https://omninput.app/download/omninput-macos.dmg"
   name "Omninput"
