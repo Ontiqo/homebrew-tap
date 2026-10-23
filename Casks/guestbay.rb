@@ -1,6 +1,6 @@
 cask "guestbay" do
-  version "1.6.0"
-  sha256 "c757b8063fcc270b3e118f6ac5206f7f3c83fcf1e1f6bf1a65433d72933603fd"
+  version "1.7.0"
+  sha256 "d8998d22d17a00788ccc4b4898659dd11e4edc5b79f2bfcdf2beaeb5f8c767bf"
 
   url "https://download.guestbay.app/#{version}/guestbay-#{version}.dmg"
   name "Guestbay"
