@@ -1,6 +1,6 @@
 cask "leafviewer" do
-  version "2.5.0"
-  sha256 "fd5b9c0e0b34e3377262d1bceb797e7f721fdf585158bd4288e25f186c73f3a3"
+  version "2.5.1"
+  sha256 "eaf79310c9fd5c09b6e9b0e7331f9b665a774a955d5292211916450b945207b9"
 
   url "https://download.leafviewer.app/#{version}/leafviewer-#{version}.dmg"
   name "Leaf Viewer"
