@@ -1,6 +1,6 @@
 cask "echofiles" do
-  version "1.0.10"
-  sha256 "2d5247e9a39df92a9019a056a616b6c4e2cd02300a9e4a661ac6e4b28e1dd758"
+  version "1.0.11"
+  sha256 "22e2d5f9a2b2d1563fb55e9c2d0d87a2ad6a5b2ae744a036b63c7b16b1544e41"
 
   url "https://download.echofiles.app/#{version}/echofiles-#{version}.dmg"
   name "Echofiles"
