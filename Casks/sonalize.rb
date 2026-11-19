@@ -1,6 +1,6 @@
 cask "sonalize" do
-  version "1.0.0"
-  sha256 "a38637656677cf897908f9af9e5794cad245be18bace05313636e91543478e14"
+  version "1.0.1"
+  sha256 "2cc30d2bf12f8d8e48ac02feca7ca372746aa653f0d411131c9cfd05c3162f6a"
 
   url "https://download.sonalize.app/release/#{version}/Sonalize_#{version}_universal.dmg"
   name "Sonalize"
@@ -20,6 +20,7 @@ cask "sonalize" do
 
   zap trash: [
     "~/Library/Application Support/app.sonalize",
+    "~/Library/Application Support/Sonalize",
     "~/Library/Caches/app.sonalize",
     "~/Library/Preferences/app.sonalize.plist",
     "~/Library/Saved Application State/app.sonalize.savedState",
